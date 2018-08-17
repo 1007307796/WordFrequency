@@ -1,0 +1,6 @@
+Educational institutions find themselves stuck in a maze as they attempt to modify their security posture and deploy new tools for mitigating the latest hacks. At the same time, adversaries are coming up with ways around the security defenses. Hence, security defenses can only protect data to a certain extent. No matter how robust a higher ed institute¡¯s cybersecurity software may be, its end users would lead the line of defense during an attack.
+
+That¡¯s the main premise of security awareness in higher education.
+
+Conventionally, awareness often takes a backseat due to the busy lives of faculty and hectic schedule of students, but efforts to educate everyone in an institute¡¯s premises and its partners need to be stepped up if higher education wants to stand a chance against sophisticated cybercrime.
+What Can Higher Education Institutes Do to Raise Awareness?

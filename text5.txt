@@ -1,0 +1,5 @@
+Security is a success driver when done right, and a significant threat with potentially destructive outcomes if it malfunctions. Here¡¯s how higher education institutions can raise awareness on security.
+1. Stimulated Phishing
+
+Stimulating phishing can be used to educate all stakeholders (staff members, faculty, and students). Educational institutes can set up campaigns where phishing exercises are performed in-house. Work with your IT team to create fake phishing messages with links that point to blank websites. Anyone who opens the fake email then gets redirected to the harmless site, but receive a notification about the exercise as well as further information on how to be safe. Alternatively, institutions can work with companies that specialize in stimulating phishing exercises (like games, modules, etc.). Awareness training can be customized according to the requirements of different institutes.
+2. Data Sharing Lectures
